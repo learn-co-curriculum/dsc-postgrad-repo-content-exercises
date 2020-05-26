@@ -1,10 +1,18 @@
 # Content Expectations - Exercises
 
+## Introduction
+In this lesson, you'll complete some Jupyter Notebook and README content exercises.
+
+## Objectives
+
+You will be able to:
+
+- Review the minimum expectations of written data science project
+- List what enhances a project from the minimum to the exceptional
+- Compare the impact of rewritten sections to their original content
 
 
-## Exercises
-
-### 1) Notebook Exercise #1
+## Jupyter Notebook Exercise 1
 
 Examine this screenshot of a Jupyter Notebook and identify which of these aspects is missing or incomplete (could be more than one):
 
@@ -15,7 +23,7 @@ Examine this screenshot of a Jupyter Notebook and identify which of these aspect
 - Project overview
 - Real-world value provided by this project 
 
-### 2) Notebook Exercise #2
+## Jupyter Notebook Exercise 2
 
 Examine this screenshot of a Jupyter Notebook and identify which of these aspects is missing or incomplete (could be more than one):
 
@@ -26,7 +34,7 @@ Examine this screenshot of a Jupyter Notebook and identify which of these aspect
 - Considerations when choosing the metrics used
 - Inclusion of cross-validation, used correctly
 
-### 3) README Exercise
+## README Exercise
 
 Examine the README [here](https://github.com/learn-co-curriculum/dsc-postgrad_Project-Repository/blob/master/README.md) and identify which of these aspects is missing or incomplete (could be more than one):
 
@@ -40,3 +48,7 @@ Examine the README [here](https://github.com/learn-co-curriculum/dsc-postgrad_Pr
 - Contact information
 
 You can explore a more polished version of the same project repository [here](https://github.com/learn-co-curriculum/dsc-postgrad_House-Price-Prediction) in order to see what changed from the examples we provided in the exercises above.
+
+## Summary
+
+Great! Let's now apply this all to your own work!
