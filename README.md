@@ -16,7 +16,7 @@ You will be able to:
 
 Examine this screenshot of a Jupyter Notebook and identify which of these aspects is missing or incomplete (could be more than one):
 
-![notebook exercise 1 - overview section](https://raw.githubusercontent.com/learn-co-curriculum/dsc-postgrad-repo-content-exercises/master/images/notebook-exercise-1.png)
+![notebook exercise 1 - overview section](https://raw.githubusercontent.com/learn-co-curriculum/dsc-postgrad-repo-content-exercises/master/notebook-exercise-1.png)
 
 - Descriptive title
 - Notebook overview
@@ -27,7 +27,7 @@ Examine this screenshot of a Jupyter Notebook and identify which of these aspect
 
 Examine this screenshot of a Jupyter Notebook and identify which of these aspects is missing or incomplete (could be more than one):
 
-![notebook exercise 2 - modeling](https://raw.githubusercontent.com/learn-co-curriculum/dsc-postgrad-repo-content-exercises/master/images/notebook-exercise-2.png)
+![notebook exercise 2 - modeling](https://raw.githubusercontent.com/learn-co-curriculum/dsc-postgrad-repo-content-exercises/master/notebook-exercise-2.png)
 
 - Fully documented decision-making process
 - Justification for decisions
